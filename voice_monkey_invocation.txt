@@ -1,3 +1,2 @@
-"Alexa, abra Voice Monkey",
-"Alexa, inicie Voice Monkey",
-"Alexa, inicialize Voice Monkey"
+"Alexa, open Voice Monkey",
+"Alexa, start Voice Monkey"
