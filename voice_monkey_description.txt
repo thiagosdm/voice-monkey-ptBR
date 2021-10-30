@@ -1,30 +1,29 @@
-Voice Monkey é uma skill gratuita que permite chamar rotinas da Alexa através de fontes externas como por exemplo o IFTTT. Ela também permite que você faça anúncios dinâmicos e personalizados de texto em fala através do seu Amazon Echo ou outro alto falante inteligente Alexa.
+Voice Monkey is a free Skill that allows you to trigger Alexa Routines from external sources such as IFTTT. It also allows you to make dynamic and custom Text to Speech announcements over your Amazon Echo or other Alexa smart speaker.
 
-Ah, nós mencionamos que é GRATUITO?! Crie gatilhos ilimitados de graça. Sim, de graça.
+Oh, did we mention it's FREE?! Create unlimited triggers for free. Yes, free.
 
-** CONTE-ME MAIS **
+** TELL ME MORE **
 
-Rotinas Alexa são poderosas para automatizar tarefas do dia-a-dia e controlar dispositivos de casa inteligentes . Contudo, as ações que podem chamar uma rotina Alexa são atualmente limitadas.
+Alexa routines are powerful for automating daily tasks and for controlling smart home devices. However, the actions that can trigger Alexa routines are currently limited.
 
-Voice Monkey permite você chamar rotinas Alexa via IFTTT, Zapier, um navegador, uma API RESTful ou como parte da configuração de sua casa inteligente a partir de plataformas como Samsung SmartThings, Home Assitant, OpenHAB e Node-red.
+Voice Monkey allows you to trigger Alexa Routines via IFTTT, Zapier, a web browser, a RESTful API or as part of your smart home set-up from platforms such as Samsung SmartThings, Home Assistant, OpenHAB and Node-red.
 
-Por favor habilite a Skill, conecte sua conta Amazon e então visite https://voicemonkey.io/start para começar.
+Please enable the Skill, link your Amazon account and then visit https://voicemonkey.io/start to get started.
 
-* Atenção *: Está é uma ferramenta geek para entusiastas de casa inteligente e Alexa. Se você nunca ouviu falar sobre IFTTT ou uma API, ou não tem certeza sobre criar rotinas Alexa, Voice Monkey provavelmente não será para você. Senão, por favor continue...
-
-
-** GATILHOS VIRTUAIS **
-
-Voice Monkey permite você chamar Rotinas Alexa baseadas em quase tudo -- a chegada de um email ou SMS, uma mensagem do Facebook, um Tweet, um botão Flic, um alerta do tempo ou mudança de temperatura, eventos de site, um erro de servidor, um evento de dispositivo de casa inteligente como por exemplo um evento de detecção de movimento da camera de seguraça, ou até um botão físico conectado a algo como por exemplo Raspberry Pi ou Arduino. As possibilidades são sem fim.
-
-** ANUNCIOS DE TEXTO EM FALA **
-
-De ao seu dispositivo de casa inteligente uma voz. Voice Monkey permite você enviar seu proprio anuncio de texto no qual a Alexa irá falar. Envie qualquer coisa. Isso é ótimo para enviar informações dinâmicas para seu alto-falando Echo baseado em um evento externo, por exemplo 'detecção de movimento na camera um' 
+* Warning *: This is a geeky tool for smart home and Alexa enthusiasts. If you've never heard of IFTTT or an API, or are unsure about creating Alexa Routines, Voice Monkey is likely not for you. Otherwise, please continue...
 
 
-** IMAGENS OU VIDEOS **
+** VIRTUAL TRIGGERS **
 
-Envie uma imagem ou um vídeo diretamente para sua Echo Show ou um outro dispositivo Alexa com imagem. 
+Voice Monkey allows you to trigger Alex Routines based on just about anything -- an incoming email or SMS, a Facebook message, a Tweet, a Flic button, a weather alert or temperature change, website events, a server error, smart home device events such as a security camera motion detection event, or even a physical button connected to something like a Raspberry Pi or Arduino. The possibilities are endless.
+
+** TEXT TO SPEECH ANNOUNCEMENTS **
+
+Give your smart home a voice. Voice Monkey allows you to send your own announcement text which Alexa will speak. Send anything. This is great for sending dynamic information to your Echo speakers based on an external event e.g. 'motion detected from camera one'
+
+
+** IMAGES OR VIDEOS **
+
 Send either an image or video directly to your Echo Shows or or other screen enabled Alexa devices. Simply send a secure https URL of the image or mp4 video via the API and you can display it on your device's screen.
 
 
