@@ -1,0 +1,1 @@
+Voice Monkey is an API to trigger Alexa routines remotely and automatically from external apps such as IFTTT and SmartThings. It also gives you Text To Speech!

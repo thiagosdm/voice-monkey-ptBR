@@ -1,0 +1,21 @@
+"link my amazon account",
+"link my account",
+"link amazon account",
+"link account"
+
+
+"final step",
+"the final step",
+"last step",
+"start tour",
+"start the tour"
+
+
+"trigger monkey number 3",
+"trigger number 3",
+"trigger monkey 3",
+"trigger 3"
+
+
+"say announcement 2",
+"announcement 2"

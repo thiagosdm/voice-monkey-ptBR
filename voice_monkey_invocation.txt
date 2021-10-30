@@ -1,0 +1,2 @@
+"Alexa, open Voice Monkey",
+"Alexa, start Voice Monkey"

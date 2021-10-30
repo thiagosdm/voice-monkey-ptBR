@@ -1,0 +1,49 @@
+'You need to re-link this skill to your account. I have sent instructions to your Alexa App. Please visit the home section of the Alexa app and click on the link to connect your account.',
+
+'Sorry, something went wrong.',
+
+'No announcement text specified. Please use the API or dashboard to generate an announcement which will replace this message.',
+
+'Welcome to Voice Monkey. To get started you need to link this skill to your account. I have sent instructions to your Alexa App. Please visit the home section of the Alexa app and click on the link to connect your account. Visit voice monkey dot io for more information.',
+
+
+'You need to re-link this skill to your account. I have sent instructions to your Alexa App. Please visit the home section of the Alexa app and click on the link to connect your account.',
+
+'Great news! You have already completed the Voice Monkey set-up. You can now start creating triggers for your routines.',
+
+'Great news! You have completed the Voice Monkey set-up. You can now start creating triggers for your routines, which we call,  monkeys.',
+
+'Sorry, something went wrong. Please try again.',
+
+'Sorry something went wrong. Please try re-linking your Alexa account to the Voice Monkey Skill.',
+'Sorry something went wrong.',
+
+'You first need to link the Voice Monkey Skill to your Amazon account. I have sent a linking card to your Alexa app.',
+
+'This is a test. Triggering monkeys via voice will be available soon.',
+'Please specify the numeric ID of the preset to trigger.',
+'No presets found. Please create a preset first.',
+'Preset not found.',
+'Sorry, something went wrong triggering the preset.',
+'Sorry I didn\'t catch that. Yes or No?',
+'OK.',
+
+'Great news! Your account is already linked. Visit voice monkey dot io for more information.',
+'I have sent instructions to your Alexa App. Please visit the home section of the Alexa app and click on the link to connect your account.',
+
+
+'I didn\'t ask you a question. Could you please rephrase?',
+'I didn\'t ask you a question. Could you please rephrase?',
+
+
+'Voice Monkey lets you trigger Routines remotely using an API. It also lets you send dynamic voice announcements to your Alexa devices. Please visit voice monkey dot io for further information.',
+
+
+'Sorry, I didn\'t catch that. Could you repeat?',
+
+
+'Goodbye',
+'Sorry, there was a problem with the Skill\'s response.',
+
+
+'I\'m sorry, I didn\'t catch that. Could you please rephrase?'

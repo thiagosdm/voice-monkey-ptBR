@@ -1,0 +1,53 @@
+Voice Monkey is a free Skill that allows you to trigger Alexa Routines from external sources such as IFTTT. It also allows you to make dynamic and custom Text to Speech announcements over your Amazon Echo or other Alexa smart speaker.
+
+Oh, did we mention it's FREE?! Create unlimited triggers for free. Yes, free.
+
+** TELL ME MORE **
+
+Alexa routines are powerful for automating daily tasks and for controlling smart home devices. However, the actions that can trigger Alexa routines are currently limited.
+
+Voice Monkey allows you to trigger Alexa Routines via IFTTT, Zapier, a web browser, a RESTful API or as part of your smart home set-up from platforms such as Samsung SmartThings, Home Assistant, OpenHAB and Node-red.
+
+Please enable the Skill, link your Amazon account and then visit https://voicemonkey.io/start to get started.
+
+* Warning *: This is a geeky tool for smart home and Alexa enthusiasts. If you've never heard of IFTTT or an API, or are unsure about creating Alexa Routines, Voice Monkey is likely not for you. Otherwise, please continue...
+
+
+** VIRTUAL TRIGGERS **
+
+Voice Monkey allows you to trigger Alex Routines based on just about anything -- an incoming email or SMS, a Facebook message, a Tweet, a Flic button, a weather alert or temperature change, website events, a server error, smart home device events such as a security camera motion detection event, or even a physical button connected to something like a Raspberry Pi or Arduino. The possibilities are endless.
+
+** TEXT TO SPEECH ANNOUNCEMENTS **
+
+Give your smart home a voice. Voice Monkey allows you to send your own announcement text which Alexa will speak. Send anything. This is great for sending dynamic information to your Echo speakers based on an external event e.g. 'motion detected from camera one'
+
+
+** IMAGES OR VIDEOS **
+
+Send either an image or video directly to your Echo Shows or or other screen enabled Alexa devices. Simply send a secure https URL of the image or mp4 video via the API and you can display it on your device's screen.
+
+
+** CHROME EXTENSION **
+
+With the Voice Monkey Web to Alexa Chrome Extension, you can highlight text you find on a website and send it directly to your Echo for Alexa to speak. Also, right click on images and send those to your screen enabled devices too.
+
+
+** GETTING STARTED WITH VOICE MONKEY **
+
+Before you can start using Voice Monkey you must complete the following steps:
+
+1. Enable the Voice Monkey Skill
+2. Agree to link the skill to your Amazon account and accept the permissions for notifications
+3. Sign in at https://voicemonkey.io/login
+4. Complete set-up and create your "Monkeys" which are virtual smart home doorbell devices each with an API URL you can use to trigger routines.
+5. Set-up a routine and use the newly created Monkey as the trigger. If you want to use the text to speech annoucements, then open the Voice Monkey skill as the last action in your routine.
+6. Use the "Generate URL" section of the site to create a URL you can use in a browser or within 3rd party apps such as IFTTT to trigger the routine.
+
+More information and documentation is available at https://voicemonkey.io/docs
+
+
+** SUPPORT **
+
+If you have any questions, comments or feedback please send an email to:
+
+hello@voicemonkey.io
